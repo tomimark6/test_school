@@ -18,7 +18,7 @@ public class A_Wprowadzenie {
    	 // Takie podejście "nie skaluje się".
    	 
    	 // ...Można stworzyć "tablicę":
-   	 String[] miasta = new String[5];
+   	 String[] miasta = new String[6];
    	 // Początkowo w tak utworzonej tablicy są same nulle albo zera (w zależności od typu)
    	 System.out.println("miasta[0] = " + miasta[0]);
    	 
@@ -28,6 +28,7 @@ public class A_Wprowadzenie {
    	 miasta[2] = "Wrocław";
    	 miasta[3] = "Poznań";
    	 miasta[4] = "Łódź";
+   	 miasta[5] = "Mielec";
 
    	 System.out.println("miasta[0] = " + miasta[0]);
    	 System.out.println();
