@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/target/
+/bin/
+
+/.settings/
+/.classpath
+/.project
+
+/*.iml
+/.idea/
+
+/pliki/zapis*
+/pliki/liczby.txt
+/pliki/fibonacci.txt
+/pliki/ponumerowany.txt
+/pliki/posortowany.txt
